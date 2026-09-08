@@ -1,6 +1,6 @@
 # Meraj Rahman - Portfolio
 
-A dark comic-book style resume site. Built as a single scrollable page so it
+Built as a single scrollable page so it
 reads fast for employers, with a live GitHub project feed and a contact form.
 
 **Live site:** https://mezdev.xyz
